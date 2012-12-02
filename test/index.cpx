@@ -1,0 +1,31 @@
+## Format:
+#
+# [picture location] :: [keywords separated by commas] :: [target CP section]
+#
+# lines starting with # are obviously comments
+#
+# CP Section Options:
+#Animals / Wildlife
+#Art / Photography
+#Baby / Kids / Family
+#Comics / Animation
+#Countries / Regions / Cities
+#Current Even
+#Education / Occupations
+#Entertainment / Pop Culture
+#Fantasy / Science Fiction
+#Gay / Lesbian / Bi / Transgender
+#Geeks / Technolo
+#Holidays / Occas
+#Politics / Government
+#Religion / Beliefs
+#Sex / Relationship
+
+You are not your SUV ::Fight Club, Chuck Palahniuk, Project Mayhem::Entertainment / Pop Culture
+You are not your red sports car ::Fight Club, Chuck Palahniuk, Project Mayhem::Entertainment / Pop Culture
+You are not your midlife crisis::Fight Club, Chuck Palahniuk, Project Mayhem::Entertainment / Pop Culture
+
+# this is where the canibalism t-shirts start
+Canibalism Tickles::my keywords::Religion / Beliefs
+
+
